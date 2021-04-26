@@ -1,8 +1,5 @@
 # K-Means Clustering dataset Customer Mall 
 
-"" "
-                                                           UNSUPERVISED MACHINE LEARNING INTRODUCTION MATERIAL 3
-
 => machine learning models will study patterns and structures in data based on relationships or linkages between variables in the data.
    The model will then group this data into different clusters. This technique is known as clustering.
 
@@ -24,8 +21,7 @@
 
 -> The very first thing K-Means do is select a random sample to be the centroid. The centroid is a sample of data that is the center of a cluster.
   We can see in the figure that the 3 samples that were used as centroids are colored blue, green and yellow.
-  
-"" "
+
 
 ## Cluster
 
