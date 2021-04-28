@@ -1,4 +1,4 @@
-# K-Means Clustering dataset Customer Mall 
+# K-Means Clustering 
 
 => machine learning models will study patterns and structures in data based on relationships or linkages between variables in the data.
    The model will then group this data into different clusters. This technique is known as clustering.
